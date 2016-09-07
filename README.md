@@ -5,6 +5,7 @@
 Sample code used and slightly rewritten from the 7th edition of the textbook.
 
 Chapters:
+
 1. Getting Started
 2. Anatomy of a C++ Program
 3. Using Variables, Declaring Constants
